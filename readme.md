@@ -165,9 +165,27 @@ All rights reserved © 2025, **Yash Gadhave**.
 
 ```
 
----
+## Dashboard Preview
+
+<p align="center">
+  <img src="https://github.com/Yash49hdfmj/warehouse-optimization-case-study/blob/main/screenshots/demand%20forcast.png" width="80%" alt="Demand Forecast">
+</p>
+
+<p align="center">
+  <img src="https://github.com/Yash49hdfmj/warehouse-optimization-case-study/blob/main/screenshots/inventoryanalysis.png" width="80%" alt="Inventory Analysis">
+</p>
+
+<p align="center">
+  <img src="https://github.com/Yash49hdfmj/warehouse-optimization-case-study/blob/main/screenshots/model%20performance.png" width="80%" alt="Model Performance">
+</p>
+
+<p align="center">
+  <img src="https://github.com/Yash49hdfmj/warehouse-optimization-case-study/blob/main/screenshots/rebalancing%20plan.png" width="80%" alt="Rebalancing Plan">
+</p>
+
 
 
 ```
+
 
 
