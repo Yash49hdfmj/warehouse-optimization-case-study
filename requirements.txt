@@ -1,0 +1,17 @@
+# Warehouse Optimization System - Python Dependencies
+# Install with: pip install -r requirements.txt
+
+pandas>=1.5.0
+numpy>=1.23.0
+scikit-learn>=1.2.0
+lightgbm>=3.3.0
+pulp>=2.7.0
+
+# Optional: For alternative models
+# xgboost>=1.7.0
+# catboost>=1.1.0
+
+# Development dependencies (optional)
+# pytest>=7.0.0
+# black>=22.0.0
+# flake8>=5.0.0
