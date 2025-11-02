@@ -189,9 +189,6 @@ All rights reserved © 2025, **Yash Gadhave**.
 
 
 
-```
-♥ yash
-
 
 
 
