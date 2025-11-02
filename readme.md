@@ -20,7 +20,7 @@ It combines predictive modeling with optimization and interactive visualization 
 
 ## Features
 
-- **Automated Data Processing:** Cleans, merges, and validates multiple operational datasets.  
+- **Data Cleaning & Exploration:** Cleans, merges, and validates multiple operational datasets.  
 - **Demand Forecasting:** Uses LightGBM, XGBoost, and CatBoost models for order prediction.  
 - **Inventory Optimization:** Suggests optimal inter-warehouse transfers to minimize cost and CO₂ impact.  
 - **Interactive Dashboard:** Built with Streamlit and Plotly for real-time data exploration.  
@@ -186,6 +186,7 @@ All rights reserved © 2025, **Yash Gadhave**.
 <p align="center">
   <img src="https://github.com/Yash49hdfmj/warehouse-optimization-case-study/blob/main/screenshots/rebalancing%20plan.png" width="80%" alt="Rebalancing Plan">
 </p>
+
 
 
 
