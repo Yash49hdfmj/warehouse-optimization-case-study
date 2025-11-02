@@ -1,6 +1,3 @@
-
-
-```markdown
 # Warehouse Optimization and Forecasting Dashboard
 
 **Developed by:** Yash Gadhave  
@@ -29,6 +26,7 @@ It combines predictive modeling with optimization and interactive visualization 
 ---
 
 ## Directory Structure
+
 
 ```
 
@@ -169,3 +167,4 @@ All rights reserved © 2025, **Yash Gadhave**.
 
 
 ```
+
