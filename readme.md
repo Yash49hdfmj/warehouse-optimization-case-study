@@ -1,6 +1,11 @@
 # Warehouse Optimization and Forecasting Dashboard
 
 **Developed by:** Yash Gadhave  
+<p align="center">
+  <img src="https://github.com/Yash49hdfmj/warehouse-optimization-case-study/blob/main/screenshots/pexels-tiger-lily-4481326.jpg
+" width="80%" alt="Demand Forecast">
+</p>
+
 **Language:** Python  
 **Libraries:** Streamlit, Plotly, Pandas, NumPy, LightGBM, XGBoost, CatBoost, PuLP
 
@@ -187,6 +192,7 @@ All rights reserved © 2025, **Yash Gadhave**.
 
 ```
 ♥ yash
+
 
 
 
