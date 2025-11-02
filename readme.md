@@ -91,9 +91,11 @@ The Streamlit dashboard provides the following tabs:
 
 ## Running the Application
 
-### Step 1. Train and Compare Models
+### Step 1. Train and Run test file and main file and Compare Models
 ```bash
 cd src
+python test.py
+python main.py
 python compare_models.py
 ````
 
@@ -167,4 +169,5 @@ All rights reserved © 2025, **Yash Gadhave**.
 
 
 ```
+
 
