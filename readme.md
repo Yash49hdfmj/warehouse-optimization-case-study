@@ -163,7 +163,7 @@ pip install -r requirements.txt
 This repository is intended for research and educational purposes.
 All rights reserved © 2025, **Yash Gadhave**.
 
-```
+
 
 ## Dashboard Preview
 
@@ -186,6 +186,7 @@ All rights reserved © 2025, **Yash Gadhave**.
 
 
 ```
+♥ yash
 
 
 
